@@ -1,6 +1,6 @@
-package lankydan.tutorial.application;
+package ken.app.application;
 
-import lankydan.tutorial.documents.OrderTransaction;
+import ken.app.documents.OrderTransaction;
 import org.apache.activemq.ActiveMQConnectionFactory;
 import org.apache.activemq.ActiveMQMessageConsumer;
 import org.apache.activemq.ActiveMQSession;

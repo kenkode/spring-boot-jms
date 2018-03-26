@@ -1,6 +1,6 @@
-package lankydan.tutorial.rest;
+package ken.app.rest;
 
-import lankydan.tutorial.documents.OrderTransaction;
+import ken.app.documents.OrderTransaction;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.jms.core.JmsTemplate;
 import org.springframework.web.bind.annotation.*;

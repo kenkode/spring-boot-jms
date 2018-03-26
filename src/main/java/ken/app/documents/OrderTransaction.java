@@ -1,4 +1,4 @@
-package lankydan.tutorial.documents;
+package ken.app.documents;
 
 import lombok.Getter;
 import lombok.NoArgsConstructor;

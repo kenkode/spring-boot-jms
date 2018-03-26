@@ -1,7 +1,7 @@
-package lankydan.tutorial.jms;
+package ken.app.jms;
 
-import lankydan.tutorial.documents.OrderTransaction;
-import lankydan.tutorial.repositories.OrderTransactionRepository;
+import ken.app.documents.OrderTransaction;
+import ken.app.repositories.OrderTransactionRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.jms.annotation.JmsListener;
 import org.springframework.stereotype.Component;
